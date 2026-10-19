@@ -1,0 +1,6 @@
+{
+  "name": "Foodie - Recipe & Meal Planner App",
+  "description": "A delightful recipe app with category browsing, detailed cooking guides, recipe favoriting, custom recipe creator, and My Food manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
